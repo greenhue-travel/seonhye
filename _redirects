@@ -1,0 +1,5 @@
+# seonhye.kr 짧은 주소 (클라우드플레어 Pages)
+# 고객에게는 카카오 주소(pf.kakao.com)를 직접 보내지 않고 이 짧은 주소를 보낸다 (그린휴 11/6 피싱 오해 사례)
+# 보험용 카카오 채널이 정해지면 아래 두 줄의 주석(#)을 지우고 채널 주소를 넣는다
+# /chat    https://pf.kakao.com/(보험 채널 ID)/chat    302
+# /friend  https://pf.kakao.com/(보험 채널 ID)/friend  302

@@ -1,0 +1,3 @@
+User-agent: *
+Disallow: /
+# 심의필 받은 뒤 아래로 바꿈: Allow: /
